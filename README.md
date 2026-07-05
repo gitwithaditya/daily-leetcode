@@ -20,62 +20,78 @@
 
 # 📖 About This Repository
 
-Welcome to my LeetCode journey!
+Welcome!
 
-This repository is an automatically updated collection of my accepted **LeetCode** solutions.
+This repository is an automatically updated collection of my accepted **LeetCode** solutions using **LeetSync**.
 
-Every solved problem represents another step toward strengthening my problem-solving skills, improving algorithmic thinking, and preparing for Software Development Engineer (SDE) interviews.
+Each commit reflects another step in my journey of becoming a better problem solver and software engineer.
 
-Rather than chasing numbers, my goal is to build consistency, understand patterns, and become a better engineer—one problem at a time.
-
----
-
-# 🎯 Why This Repository?
-
-This repository serves as:
-
-- 📚 A personal archive of my LeetCode solutions.
-- 🧠 A record of my DSA learning journey.
-- 💼 A reflection of my consistency and dedication.
-- 🚀 A resource to revisit problems and learn from past solutions.
-
-Every commit represents progress, no matter how small.
+My goal isn't just to solve problems—it's to understand patterns, strengthen logical thinking, and build the discipline required for technical interviews and real-world development.
 
 ---
 
-# 💻 Language
+# 📊 LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/codewithadiiii?theme=dark&font=Poppins&ext=contest" />
+
+</div>
+
+> 📌 **The statistics above update automatically as I solve more problems on LeetCode.**
+
+---
+
+# 🎯 Goals
+
+- ✅ Build strong DSA fundamentals
+- ✅ Improve problem-solving skills
+- ✅ Stay consistent with daily practice
+- 🎯 Solve 100 Problems
+- 🎯 Solve 250 Problems
+- 🎯 Solve 500 Problems
+- 🎯 Solve 1000 Problems
+
+---
+
+# 💻 Tech Stack
 
 ```text
-Primary Language : C++
-Platform         : LeetCode
-Purpose          : DSA Practice & Interview Preparation
+Language : C++
+Platform : LeetCode
+Sync Tool: LeetSync
+Purpose  : DSA Practice & Interview Preparation
 ```
 
 ---
 
 # 📈 My Learning Philosophy
 
-> Success in DSA doesn't come from solving hundreds of problems overnight.
+> "Success in DSA doesn't come from solving hundreds of problems overnight."
 
-It comes from showing up consistently, learning from mistakes, and improving a little every single day.
-
-Every accepted solution in this repository reminds me that progress is built through discipline, not motivation.
-
----
-
-# 🔥 Consistency Over Perfection
-
-I don't aim to solve every problem in one day.
-
-I aim to become **1% better every day**.
+I believe in showing up every day.
 
 Some days I'll solve easy problems.
 
 Some days I'll struggle with medium or hard ones.
 
-But I won't stop learning.
+But every solved problem teaches me something new.
 
-Because consistency always beats intensity.
+Consistency is what turns beginners into great engineers.
+
+---
+
+# 🚀 Why This Repository?
+
+This repository serves as:
+
+- 📚 A personal archive of accepted LeetCode solutions.
+- 🧠 A reflection of my learning journey.
+- 💼 A showcase of consistency and dedication.
+- 📈 A way to track long-term progress.
+- 🎯 A resource for future interview preparation.
+
+Every commit is a small investment toward becoming a better Software Engineer.
 
 ---
 
@@ -89,23 +105,19 @@ https://github.com/gitwithaditya
 
 https://leetcode.com/u/codewithadiiii/
 
-### 🔵 Codeforces
-
-https://codeforces.com/profile/adityaaa2025
-
----
-
-# ⭐ Support
-
-If this repository helps or inspires you, consider giving it a ⭐.
-
-Let's grow together through consistency and continuous learning.
-
 ---
 
 <div align="center">
 
-## ✨ Adapt. Learn. Build. Repeat.
+## ⭐ If this repository inspires you,
+
+Consider giving it a ⭐
+
+It motivates me to keep learning and sharing my journey.
+
+---
+
+# ✨ Adapt. Learn. Build. Repeat.
 
 *"Great engineers aren't built in a day. They're built one problem at a time."*
 
