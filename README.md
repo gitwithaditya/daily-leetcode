@@ -1,20 +1,16 @@
 <div align="center">
 
-# 🚀 DSA Journey
+# 🚀 LeetCode with Aditya
 
 ### *One Problem. One Improvement. Every Single Day.*
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+DSA+Journey!;Learning+through+Consistency.;Building+Strong+Problem+Solving+Skills.;Preparing+for+Software+Engineering+Interviews.;Adapt.+Learn.+Build.+Repeat."/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+LeetCode+Journey!;Consistency+beats+Intensity.;Learning+through+Problem+Solving.;Adapt.+Learn.+Build.+Repeat."/>
 
 <p>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/DSA-Daily%20Practice-success?style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/gitwithaditya/DSA-LEETCODE-?style=for-the-badge"/>
-<img src="https://img.shields.io/github/repo-size/gitwithaditya/DSA-LEETCODE-?style=for-the-badge"/>
 
 </p>
 
@@ -24,107 +20,62 @@
 
 # 📖 About This Repository
 
-This repository is a living documentation of my journey in **Data Structures & Algorithms** through consistent problem solving on **LeetCode**.
+Welcome to my LeetCode journey!
 
-Rather than being just a collection of accepted solutions, this repository focuses on understanding problem-solving patterns, strengthening core concepts, and writing clean, optimized C++ solutions.
+This repository is an automatically updated collection of my accepted **LeetCode** solutions.
 
-Every problem solved here represents one more step toward becoming a better software engineer.
+Every solved problem represents another step toward strengthening my problem-solving skills, improving algorithmic thinking, and preparing for Software Development Engineer (SDE) interviews.
 
----
-
-# 🎯 Objectives
-
-- Build strong problem-solving intuition.
-- Master fundamental Data Structures & Algorithms.
-- Write clean and optimized C++ solutions.
-- Prepare for Software Development Engineer (SDE) interviews.
-- Stay consistent through daily practice.
-- Document my learnings for future revision.
+Rather than chasing numbers, my goal is to build consistency, understand patterns, and become a better engineer—one problem at a time.
 
 ---
 
-# 📈 Journey Tracker
+# 🎯 Why This Repository?
 
-> 🚀 This repository evolves as I learn.
->
-> Every new topic, optimized solution, and documented explanation reflects my continuous growth in Data Structures & Algorithms.
+This repository serves as:
 
----
+- 📚 A personal archive of my LeetCode solutions.
+- 🧠 A record of my DSA learning journey.
+- 💼 A reflection of my consistency and dedication.
+- 🚀 A resource to revisit problems and learn from past solutions.
 
-# 🗺️ DSA Learning Roadmap
-
-This roadmap reflects my current learning progress.
-
-| Topic | Status |
-|:------|:------:|
-| Sorting | 🟢 |
-| Arrays | 🟢 |
-| Hashing | 🟢 |
-| Strings | 🟢 |
-| Recursion | 🟢 |
-| Linked Lists | 🟢 |
-| Bit Manipulation | 🟢 |
-| Greedy Algorithms | 🟢 |
-| Sliding Window & Two Pointers | 🟢 |
-| Stack | 🟡 |
-| Queue | 🟡 |
-| Binary Search | ⚪ |
-| Binary Trees | ⚪ |
-| Binary Search Trees | ⚪ |
-| Heaps (Priority Queue) | ⚪ |
-| Graphs | ⚪ |
-| Dynamic Programming | ⚪ |
-| Tries | ⚪ |
-
-### Legend
-
-- 🟢 Completed
-- 🟡 Currently Learning
-- ⚪ Planned
+Every commit represents progress, no matter how small.
 
 ---
 
-# 🧠 Problem Solving Philosophy
-
-For every problem, I try to follow a structured learning approach:
-
-- 📌 Understand the problem thoroughly.
-- 🐢 Think of the brute-force solution first.
-- ⚡ Optimize the solution step by step.
-- 💻 Write clean and readable C++ code.
-- 📖 Learn the underlying pattern instead of memorizing solutions.
-- 🔄 Revisit challenging problems to strengthen concepts.
-
----
-
-# 💻 Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode"/>
-
-</p>
-
----
-
-# 📂 Repository Structure
+# 💻 Language
 
 ```text
-📦 DSA Journey
-│
-├── 📂 Sorting
-├── 📂 Arrays
-├── 📂 Hashing
-├── 📂 Strings
-├── 📂 Recursion
-├── 📂 Linked Lists
-├── 📂 Bit Manipulation
-├── 📂 Greedy Algorithms
-├── 📂 Sliding Window & Two Pointers
-├── 📂 Stack
-├── 📂 Queue
-└── 📂 More Coming Soon...
+Primary Language : C++
+Platform         : LeetCode
+Purpose          : DSA Practice & Interview Preparation
 ```
+
+---
+
+# 📈 My Learning Philosophy
+
+> Success in DSA doesn't come from solving hundreds of problems overnight.
+
+It comes from showing up consistently, learning from mistakes, and improving a little every single day.
+
+Every accepted solution in this repository reminds me that progress is built through discipline, not motivation.
+
+---
+
+# 🔥 Consistency Over Perfection
+
+I don't aim to solve every problem in one day.
+
+I aim to become **1% better every day**.
+
+Some days I'll solve easy problems.
+
+Some days I'll struggle with medium or hard ones.
+
+But I won't stop learning.
+
+Because consistency always beats intensity.
 
 ---
 
@@ -146,14 +97,16 @@ https://codeforces.com/profile/adityaaa2025
 
 # ⭐ Support
 
-If you find this repository helpful for learning DSA or interview preparation, consider giving it a ⭐.
+If this repository helps or inspires you, consider giving it a ⭐.
 
-Your support motivates me to keep learning, improving, and sharing.
+Let's grow together through consistency and continuous learning.
 
 ---
 
 <div align="center">
 
 ## ✨ Adapt. Learn. Build. Repeat.
+
+*"Great engineers aren't built in a day. They're built one problem at a time."*
 
 </div>
