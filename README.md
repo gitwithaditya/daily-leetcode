@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🚀 DSA-LEETCODE
+# 🚀 DSA Journey
 
 ### *One Problem. One Improvement. Every Single Day.*
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+DSA+Journey!;Learning+through+Consistency.;Solving+Problems+%7C+Building+Logic+%7C+Growing+Daily.;Adapt.+Learn.+Build.+Repeat."/>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+DSA+Journey!;Learning+through+Consistency.;Building+Strong+Problem+Solving+Skills.;Preparing+for+Software+Engineering+Interviews.;Adapt.+Learn.+Build.+Repeat."/>
+</p>
 
----
-
-<p align="center">
+<p>
 
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
@@ -22,148 +22,138 @@
 
 ---
 
-# 👋 About This Repository
+# 📖 About This Repository
 
-Welcome!
+This repository is a living documentation of my journey in **Data Structures & Algorithms** through consistent problem solving on **LeetCode**.
 
-This repository documents my journey of mastering **Data Structures and Algorithms** through consistent practice on **LeetCode**.
+Rather than being just a collection of accepted solutions, this repository focuses on understanding problem-solving patterns, strengthening core concepts, and writing clean, optimized C++ solutions.
 
-Instead of simply collecting accepted solutions, my goal is to understand the intuition, improve problem-solving skills, and become a better software engineer with every problem I solve.
-
-Each solution represents one more step towards becoming a stronger developer.
+Every problem solved here represents one more step toward becoming a better software engineer.
 
 ---
 
 # 🎯 Objectives
 
-✔ Strengthen problem-solving skills
-
-✔ Improve coding efficiency
-
-✔ Master core DSA concepts
-
-✔ Prepare for Software Development Engineer (SDE) interviews
-
-✔ Build consistency through daily practice
+- Build strong problem-solving intuition.
+- Master fundamental Data Structures & Algorithms.
+- Write clean and optimized C++ solutions.
+- Prepare for Software Development Engineer (SDE) interviews.
+- Stay consistent through daily practice.
+- Document my learnings for future revision.
 
 ---
 
-# 📚 Topics Covered
+# 📈 Journey Tracker
 
-This repository includes problems from:
-
-- Arrays
-- Strings
-- Linked Lists
-- Stacks
-- Queues
-- Binary Search
-- Sliding Window
-- Recursion
-- Hashing
-- Trees
-- Binary Search Trees
-- Heaps
-- Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Tries
-- Backtracking
-- Bit Manipulation
-- And many more...
+> 🚀 This repository evolves as I learn.
+>
+> Every new topic, optimized solution, and documented explanation reflects my continuous growth in Data Structures & Algorithms.
 
 ---
 
-# 🧠 My Approach
+# 🗺️ DSA Learning Roadmap
 
-For every problem, I try to:
+This roadmap reflects my current learning progress.
 
-- Understand the problem deeply.
-- Think of the brute-force solution first.
-- Optimize step-by-step.
-- Write clean and readable C++ code.
-- Learn the underlying concept instead of memorizing the solution.
+| Topic | Status |
+|:------|:------:|
+| Sorting | 🟢 |
+| Arrays | 🟢 |
+| Hashing | 🟢 |
+| Strings | 🟢 |
+| Recursion | 🟢 |
+| Linked Lists | 🟢 |
+| Bit Manipulation | 🟢 |
+| Greedy Algorithms | 🟢 |
+| Sliding Window & Two Pointers | 🟢 |
+| Stack | 🟡 |
+| Queue | 🟡 |
+| Binary Search | ⚪ |
+| Binary Trees | ⚪ |
+| Binary Search Trees | ⚪ |
+| Heaps (Priority Queue) | ⚪ |
+| Graphs | ⚪ |
+| Dynamic Programming | ⚪ |
+| Tries | ⚪ |
+
+### Legend
+
+- 🟢 Completed
+- 🟡 Currently Learning
+- ⚪ Planned
 
 ---
 
-# 💻 Language
+# 🧠 Problem Solving Philosophy
+
+For every problem, I try to follow a structured learning approach:
+
+- 📌 Understand the problem thoroughly.
+- 🐢 Think of the brute-force solution first.
+- ⚡ Optimize the solution step by step.
+- 💻 Write clean and readable C++ code.
+- 📖 Learn the underlying pattern instead of memorizing solutions.
+- 🔄 Revisit challenging problems to strengthen concepts.
+
+---
+
+# 💻 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,git,github,vscode"/>
+
+</p>
+
+---
+
+# 📂 Repository Structure
 
 ```text
-Primary Language : C++
-Platform         : LeetCode
-Purpose          : Interview Preparation & DSA Mastery
+📦 DSA Journey
+│
+├── 📂 Sorting
+├── 📂 Arrays
+├── 📂 Hashing
+├── 📂 Strings
+├── 📂 Recursion
+├── 📂 Linked Lists
+├── 📂 Bit Manipulation
+├── 📂 Greedy Algorithms
+├── 📂 Sliding Window & Two Pointers
+├── 📂 Stack
+├── 📂 Queue
+└── 📂 More Coming Soon...
 ```
-
----
-
-# 📈 Why This Repository?
-
-This repository serves as:
-
-- My personal DSA notebook.
-- A record of my coding journey.
-- A resource for interview preparation.
-- A place to revisit concepts whenever needed.
-
-If it helps someone else learn DSA, that's even better.
-
----
-
-# 🌟 Repository Structure
-
-```
-📦 DSA-LEETCODE
- ┣ 📂 Arrays
- ┣ 📂 Strings
- ┣ 📂 Linked List
- ┣ 📂 Stack
- ┣ 📂 Queue
- ┣ 📂 Binary Search
- ┣ 📂 Trees
- ┣ 📂 Graphs
- ┣ 📂 Dynamic Programming
- ┣ 📂 Greedy
- ┗ 📂 More...
-```
-
----
-
-# 🚀 Progress Philosophy
-
-> Small improvements every day eventually become remarkable results.
-
-I believe consistency beats intensity.
-
-One problem solved today is one step closer to becoming a better engineer tomorrow.
 
 ---
 
 # 🤝 Connect With Me
 
-### GitHub
+### 💻 GitHub
 
 https://github.com/gitwithaditya
 
-### LeetCode
+### 🟠 LeetCode
 
 https://leetcode.com/u/codewithadiiii/
 
-### Codeforces
+### 🔵 Codeforces
 
 https://codeforces.com/profile/adityaaa2025
 
 ---
 
-<div align="center">
+# ⭐ Support
 
-# ⭐ If you find this repository helpful,
+If you find this repository helpful for learning DSA or interview preparation, consider giving it a ⭐.
 
-### Consider giving it a ⭐
-
-It motivates me to keep learning and sharing.
+Your support motivates me to keep learning, improving, and sharing.
 
 ---
 
-# ✨ Adapt. Learn. Build. Repeat.
+<div align="center">
+
+## ✨ Adapt. Learn. Build. Repeat.
 
 </div>
