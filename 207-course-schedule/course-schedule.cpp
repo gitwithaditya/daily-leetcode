@@ -1,9 +1,8 @@
 // class Solution {
 // public:
 //     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-//         // BASICALLY IF THE GRAPH IS DAG GRAPH THEN RETURN TURE, OTHERWISE FALSE->(BEACUSE DAG KA HI SIRRF TOPOLOGICAL SORT NIKALTA HAI)->(KAHN'S ALGO)
 
-//         //OR WE CAN SAY IF THE GRAPH IS CYCLIC / UNDIRECTED THEN RETURN FALSE OTHERWISE TRUE->(USING STACK/BACKTRACKING)
+//OR WE CAN SAY IF THE GRAPH IS CYCLIC / UNDIRECTED THEN RETURN FALSE OTHERWISE TRUE->(USING STACK/BACKTRACKING)
 
 //         //creating adj list->
 //         vector<vector<int>> adj(numCourses);
@@ -48,6 +47,9 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+
+// BASICALLY IF THE GRAPH IS DAG GRAPH THEN RETURN TURE, OTHERWISE FALSE->(BEACUSE DAG KA HI SIRRF TOPOLOGICAL SORT NIKALTA HAI)->(KAHN'S ALGO)
+
         vector<vector<int>> adj(numCourses);
 
         for (int i = 0; i < prerequisites.size(); i++) {
