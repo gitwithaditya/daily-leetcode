@@ -34,9 +34,12 @@ public:
                 q2.push(lvl+1);
             }
         }
-        for(int i=0;i<mpp.size();i++){
-            int j=mpp[i].size()-1;
-            ans.push_back(mpp[i][j]);
+        // for(int i=0;i<mpp.size();i++){
+        //     int j=mpp[i].size()-1;
+        //     ans.push_back(mpp[i][j]);
+        // }  OR
+        for(auto it=mpp.begin();it!=mpp.end();it++){
+            ans.push_back(it->second.back());
         }
         return ans;
     }
