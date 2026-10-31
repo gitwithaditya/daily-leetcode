@@ -85,9 +85,60 @@ public:
     //     find(root->right,l,r,pos+1);
     // }
 
+//USING MAPPING->(RECURSIVE APPROACH)
+    // map<int,vector<pair<int,int>>> mpp; //mpp(idx,lvl,data)
+    //     vector<vector<int>> ans;
+    //     preorder(root,mpp,0,0);
+    //     for(auto it=mpp.begin(); it!=mpp.end(); it++){
+    //         sort(it->second.begin(),it->second.end());
+    //         vector<int> temp;
+    //         for(int j=0;j<it->second.size();j++){
+    //             temp.push_back(it->second[j].second);
+    //         }
+    //         ans.push_back(temp);
+    //     }
+    //     return ans;
+        
+    // }
+    // void preorder(TreeNode* root, map<int,vector<pair<int,int>>>& mpp, int idx, int lvl){
+    //     if(!root) return;
+        
+    //     mpp[idx].push_back({lvl,root->val});
+    //     preorder(root->left,mpp,idx-1,lvl+1);
+    //     preorder(root->right,mpp,idx+1,lvl+1);
+    // }
+
+
+// USING MAPPING->(ITERATIVE  APPROACH) BEST WAY
     map<int,vector<pair<int,int>>> mpp; //mpp(idx,lvl,data)
         vector<vector<int>> ans;
-        preorder(root,mpp,0,0);
+        
+        queue<TreeNode*> q1;
+        queue<int> q2;
+        queue<int> q3;
+        q2.push(0);
+        q1.push(root);
+        q3.push(0);
+        while(!q1.empty()){
+            int idx=q2.front();
+            int lvl=q3.front();
+            TreeNode* node=q1.front();
+            q2.pop();
+            q1.pop();
+            q3.pop();
+            mpp[idx].push_back({lvl,node->val});
+            if(node->left){
+                q1.push(node->left);
+                q2.push(idx-1);
+                q3.push(lvl+1);
+            }
+            if(node->right){
+                q1.push(node->right);
+                q2.push(idx+1);
+                q3.push(lvl+1);
+            }
+        }
+        
         for(auto it=mpp.begin(); it!=mpp.end(); it++){
             sort(it->second.begin(),it->second.end());
             vector<int> temp;
@@ -97,14 +148,6 @@ public:
             ans.push_back(temp);
         }
         return ans;
-        
-    }
-    void preorder(TreeNode* root, map<int,vector<pair<int,int>>>& mpp, int idx, int lvl){
-        if(!root) return;
-        
-        mpp[idx].push_back({lvl,root->val});
-        preorder(root->left,mpp,idx-1,lvl+1);
-        preorder(root->right,mpp,idx+1,lvl+1);
     }
 
 };
